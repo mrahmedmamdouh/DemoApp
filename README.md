@@ -40,7 +40,7 @@ Kotlin Coroutines Test
 Build System: Gradle (Kotlin DSL)
 📦 Project Structure
 graphql
-نسخ الكود
+
 DemoApp/
 ├── data/                     # Data handling logic
 │   ├── datasource/           # Local & remote data sources
@@ -63,7 +63,6 @@ DemoApp/
 🛠️ Setup Instructions
 Clone the Repository
 bash
-نسخ الكود
 git clone https://github.com/mrahmedmamdouh/DemoApp.git
 cd DemoApp
 Open in Android Studio
@@ -72,16 +71,16 @@ Sync Gradle to download dependencies.
 Run the Application
 Connect an Android device or start an emulator.
 Click Run (Shift + F10).
+
 🧪 Testing
 The project includes robust unit tests for ViewModels, Use Cases, and Repositories.
 
 Run Unit Tests
 bash
-نسخ الكود
 ./gradlew test
 Run Instrumentation Tests
 bash
-نسخ الكود
+
 ./gradlew connectedAndroidTest
 📖 Documentation
 Jetpack Compose: Compose Docs
