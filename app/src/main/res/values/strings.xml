@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="enter_your_username_email">Enter your username/email</string>
+    <string name="login">Login</string>
+    <string name="here_are_your_medicines">Here are your medicines:</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="good_afternoon">Good Afternoon</string>
+    <string name="good_evening">Good Evening</string>
+    <string name="medicine_details">Medicine Details</string>
+    <string name="go_back">Go Back</string>
+</resources>
